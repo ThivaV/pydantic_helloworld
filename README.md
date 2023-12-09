@@ -9,4 +9,8 @@
     ```
 
 - Difference between Pydantic Vs. Dataclass
+
   - ![Pydantic Vs. Dataclass](/img/Pydantic_vs_DataClass.png)
+
+- Reference:
+  - [Pydantic Tutorial • Solving Python's Biggest Problem](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
